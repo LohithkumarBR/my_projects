@@ -1,5 +1,5 @@
 # my_projects
-The is a responsive, multi-page static website built using HTML, CSS, and Bootstrap. It includes a clean navigation bar at the top, multiple sections with text, images, and buttons, smoothly transitioning between content as the user scrolls. The site has a modern, professional look with organized content layouts, leveraging Bootstrap's system for a balanced design.
+This is a responsive, multi-page static website built using HTML, CSS, and Bootstrap. It includes a clean navigation bar at the top, multiple sections with text, images, and buttons, smoothly transitioning between content as the user scrolls. The site has a modern, professional look with organized content layouts, leveraging Bootstrap's system for a balanced design.
 # Design files
 # Home page:
 ![image](https://github.com/user-attachments/assets/e8181a6a-3a6c-4819-b32e-a0f29b897b4a)
